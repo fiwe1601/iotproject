@@ -1,0 +1,13 @@
+it.unipr.netsec.mjcoap.coap.analyzer
+it.unipr.netsec.mjcoap.coap.blockwise
+it.unipr.netsec.mjcoap.coap.client
+it.unipr.netsec.mjcoap.coap.message
+it.unipr.netsec.mjcoap.coap.observe
+it.unipr.netsec.mjcoap.coap.option
+it.unipr.netsec.mjcoap.coap.provider
+it.unipr.netsec.mjcoap.coap.server
+it.unipr.netsec.mjcoap.coap.transaction
+it.unipr.netsec.mjcoap.coap.transmission
+org.zoolu.net
+org.zoolu.util
+test
